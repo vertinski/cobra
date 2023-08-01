@@ -1,6 +1,6 @@
 This is Cobra version 3.13.0 alpha 0
 =====================================
-## Main goal of this language is to allow using integers as variable names. 
+Main goal of this language is to allow using integers as variable names. 
 
 .. image:: https://github.com/python/cpython/workflows/Tests/badge.svg
    :alt: CPython build status on GitHub Actions
